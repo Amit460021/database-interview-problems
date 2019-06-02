@@ -42,10 +42,10 @@ Example:-
 
 ### Practice using below 2 tables for SELECT queries
 Employees:  
-![Employees Table Data](https://github.com/Amit460021/database-interview-problems/blob/master/Employees.PNG, "Employees")
+![Employees Table Data](https://github.com/Amit460021/database-interview-problems/blob/master/Employees.PNG "Employees")
 
 Salary:   
-![Salary Table Data](https://github.com/Amit460021/database-interview-problems/blob/master/Salary.PNG,"Salary")  
+![Salary Table Data](https://github.com/Amit460021/database-interview-problems/blob/master/Salary.PNG "Salary")  
 
 * Write a select query to fetch the count of employees working in project P1.
 * Write a SQL query to fetch employee names having salary greater than or equal to 5000 and less than or equal to 10000
